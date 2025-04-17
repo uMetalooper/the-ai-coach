@@ -1,4 +1,5 @@
 fastapi
 streamlit
 openai
-python-dotenv 
+python-dotenv
+uvicorn
